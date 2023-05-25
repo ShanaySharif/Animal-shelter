@@ -22,3 +22,9 @@
   }
 
 
+  .sidebar {
+    width: 30%;
+    float: right;
+    background-color: rgb(228, 184, 192)
+  }
+
